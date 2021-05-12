@@ -1,11 +1,8 @@
-html {
-  /* padding will stretch the page 
-    prevents from happening horizontal scroll bar*/
-  box-sizing: border-box;
+.nav-item:hover {
+    /* font-size: 1.2% !important; */
+    color: teal !important;
 }
 
-body {
-  margin: 0;
-  min-height: 100vh; /*stretch the height 100%*/
-  background-color: gray;
+.section-heading {
+    margin-top: 1rem !important;
 }
