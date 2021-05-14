@@ -1,40 +1,73 @@
 .nav-item:hover {
-    /* font-size: 1.2% !important; */
-    color: teal !important;
+  /* font-size: 1.2% !important; */
+  color: teal !important;
 }
 
 .section-heading {
-    margin-top: 1rem !important;
+  margin-top: 1rem !important;
 }
 
-.whoami{
-    color: whitesmoke;
+.whoami {
+  color: whitesmoke;
 }
 
-.fab.fa-linkedin:hover{
-    color:teal;
-    /* background-color:aliceblue; */
+.fab.fa-linkedin:hover {
+  color: teal;
+  /* background-color:aliceblue; */
 }
 
-.fab.fa-facebook-square:hover{
-    color:teal;
-    /* background-color:aliceblue; */
+.fab.fa-facebook-square:hover {
+  color: teal;
+  /* background-color:aliceblue; */
 }
-.fab.fa-reddit-square:hover{
-    color:teal;
-    /* background-color:aliceblue; */
-}
-
-.fab.fa-github-square:hover{
-    color:teal;
-    /* background-color:aliceblue; */
+.fab.fa-reddit-square:hover {
+  color: teal;
+  /* background-color:aliceblue; */
 }
 
-.project1{
-    background-image: url('../assets/unsplash-photo-1.jpg');
+.fab.fa-github-square:hover {
+  color: teal;
+  /* background-color:aliceblue; */
+}
+
+.project1 {
+  background-image: url("../assets/unsplash-photo-1.jpg");
 }
 .card-cover {
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
-  }
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.rounded-4 {
+  border-radius: 0.5rem;
+}
+.rounded-5 {
+  border-radius: 1rem;
+}
+
+.text-shadow-1 {
+  text-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.25);
+}
+.text-shadow-2 {
+  text-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+.text-shadow-3 {
+  text-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.25);
+}
+
+.modal-content {
+  background-color: #0480be;
+  text-align: justify;
+  color: rgba(255, 255, 255, 0.89)
+}
+.modal-body {
+  background-color:#1F1B24;
+  
+}
+.modal-title{
+    justify-content: center;
+}
+.modal-header{
+    background-color: #BB86FC;
+}
