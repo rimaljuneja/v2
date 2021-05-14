@@ -1,0 +1,40 @@
+.nav-item:hover {
+    /* font-size: 1.2% !important; */
+    color: teal !important;
+}
+
+.section-heading {
+    margin-top: 1rem !important;
+}
+
+.whoami{
+    color: whitesmoke;
+}
+
+.fab.fa-linkedin:hover{
+    color:teal;
+    /* background-color:aliceblue; */
+}
+
+.fab.fa-facebook-square:hover{
+    color:teal;
+    /* background-color:aliceblue; */
+}
+.fab.fa-reddit-square:hover{
+    color:teal;
+    /* background-color:aliceblue; */
+}
+
+.fab.fa-github-square:hover{
+    color:teal;
+    /* background-color:aliceblue; */
+}
+
+.project1{
+    background-image: url('/assets/unsplash-photo-1.jpg');
+}
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
