@@ -31,7 +31,7 @@
 }
 
 .project1{
-    background-image: url('/assets/unsplash-photo-1.jpg');
+    background-image: url('../assets/unsplash-photo-1.jpg');
 }
 .card-cover {
     background-repeat: no-repeat;
