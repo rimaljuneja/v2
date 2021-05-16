@@ -30,13 +30,25 @@
   /* background-color:aliceblue; */
 }
 
-.project1 {
-  background-image: url("../assets/unsplash-photo-1.jpg");
+.project1-bg {
+  background-image: url("../assets/lisa-dribbble.gif");
+}
+.project2-bg {
+  background-image: url("../assets/blockchain/1BlockchainLifecycle.gif");
+}
+.project3-bg {
+  background-image: url("../assets/chat-bot/bot.gif");
 }
 .card-cover {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+}
+
+.card-cover-p2 {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
 }
 
 .rounded-4 {
